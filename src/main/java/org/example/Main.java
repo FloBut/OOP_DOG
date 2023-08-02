@@ -10,6 +10,7 @@ public class Main {
     public static void main(String[] args) {
         Dog dog = getDog();
         System.out.print(dog.getBark());
+        int a;
     }
 
 
